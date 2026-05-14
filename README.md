@@ -1,1 +1,1 @@
-# cricket-sentiment-correlator
+# event-intelligence-platform
